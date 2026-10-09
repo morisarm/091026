@@ -3,6 +3,7 @@
 int main() {
     int n, sum = 0;
 
+    printf("Type a number:\n");
     while (1) {
         scanf("%d", &n);
 
