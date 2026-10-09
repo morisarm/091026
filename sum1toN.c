@@ -3,6 +3,7 @@
 int main() {
     int n, sum = 0;
 
+    printf("Type a number:\n");
     scanf("%d", &n);
 
     for (int i = 1; i <= n; i++) {
